@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
+Project based on Alura class project: [Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD](https://www.alura.com.br/curso-online-angular-explorando-framework)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
